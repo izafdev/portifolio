@@ -1,10 +1,10 @@
-import Home from '../src/pages/Home/Home';
+import Hero from '../Hero/Hero';
 
 const App = () => {
   return (
     <>
       App
-      <Home/>
+      <Hero/>
     </>
   );
 }
